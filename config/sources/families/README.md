@@ -17,3 +17,4 @@
 || jetson-nano : jetson-nano |
 || jethubj80   : meson64 |
 || jethubj100  : meson64 |
+|| stm32mp15 : stm32mp |
